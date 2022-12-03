@@ -1,0 +1,8 @@
+D:\Tally Project Training\StudentDB\StudentDB\bin\Debug\StudentDB.exe.config
+D:\Tally Project Training\StudentDB\StudentDB\bin\Debug\StudentDB.exe
+D:\Tally Project Training\StudentDB\StudentDB\bin\Debug\StudentDB.pdb
+D:\Tally Project Training\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.AssemblyReference.cache
+D:\Tally Project Training\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.SuggestedBindingRedirects.cache
+D:\Tally Project Training\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+D:\Tally Project Training\StudentDB\StudentDB\obj\Debug\StudentDB.exe
+D:\Tally Project Training\StudentDB\StudentDB\obj\Debug\StudentDB.pdb
